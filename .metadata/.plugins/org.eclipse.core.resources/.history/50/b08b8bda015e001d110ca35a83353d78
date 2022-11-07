@@ -1,0 +1,23 @@
+package oneDigitalInovation.gof;
+
+/**
+ * Singleton "preguiçoso".
+ * 
+ * @author jhon-lenon
+ */
+public class SingletonEager {
+	
+	private static SingletonEager instancia;
+	
+	private SingletonEager() {
+		super();
+	}
+	
+	public static SingletonEager getInstacia() {
+		if(instancia == null) {
+			instancia = new SingletonEager();
+		}
+		return instancia;
+	}
+
+}

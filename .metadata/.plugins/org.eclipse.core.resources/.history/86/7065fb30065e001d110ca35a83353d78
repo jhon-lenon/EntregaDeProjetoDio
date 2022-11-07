@@ -1,0 +1,5 @@
+package oneDigitalInovation.gof.strategy;
+
+public class ComportamentoNormal {
+
+}

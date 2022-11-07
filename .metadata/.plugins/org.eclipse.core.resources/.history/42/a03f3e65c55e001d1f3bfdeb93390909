@@ -1,0 +1,25 @@
+package oneDigitalInovation.gof.SubSistema2.cep;
+
+import oneDigitalInovation.gof.singleton.SingletonEager;
+
+public class CepApi {
+	
+	private static CepApi instancia = new CepApi();
+	
+	private CepApi() {
+		super();
+	}
+	
+	public static CepApi getInstacia() {			
+		return instancia;
+	}
+	
+	public String recuperarCidade(String cep) {
+		return "Araraquara";
+	}
+
+	public String recuperarCidade(String cep) {
+		return "SP";
+	}
+	
+}

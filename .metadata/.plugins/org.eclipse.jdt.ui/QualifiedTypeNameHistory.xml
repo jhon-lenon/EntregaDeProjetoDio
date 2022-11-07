@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="oneDigitalInovation.gof.SingletonLazy"/>
+    <fullyQualifiedTypeName name="oneDigitalInovation.gof.SingletonLazyHolder"/>
+    <fullyQualifiedTypeName name="oneDigitalInovation.gof.strategy.ComportamentoNormal"/>
+    <fullyQualifiedTypeName name="oneDigitalInovation.gof.strategy.ComportamentoDefensivo"/>
+    <fullyQualifiedTypeName name="oneDigitalInovation.gof.strategy.ComportamentoAgresivo"/>
+    <fullyQualifiedTypeName name="oneDigitalInovation.gof.strategy.Robo"/>
+    <fullyQualifiedTypeName name="oneDigitalInovation.gof.SubSistema1.crm.CrmService"/>
+    <fullyQualifiedTypeName name="oneDigitalInovation.gof.SubSistema2.cep.CepApi"/>
+    <fullyQualifiedTypeName name="oneDigitalInovation.gof.Facade.Facade"/>
+</qualifiedTypeNameHistroy>

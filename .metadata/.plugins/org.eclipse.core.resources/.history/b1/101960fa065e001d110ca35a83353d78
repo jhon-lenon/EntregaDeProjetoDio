@@ -1,0 +1,13 @@
+package oneDigitalInovation.gof.strategy;
+
+public class Robo {
+	
+	private Comportamento comportamento;
+
+	public void setStrategy(Comportamento strategy) {
+		this.comportamento = strategy;
+	}
+	
+	
+	
+}

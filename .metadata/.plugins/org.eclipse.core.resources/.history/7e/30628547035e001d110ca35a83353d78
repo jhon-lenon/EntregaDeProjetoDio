@@ -1,0 +1,11 @@
+package oneDigitalInovation.gof;
+
+public class Test {
+	public static void main(String[] args) {
+		SingletonLazy lazy = SingletonLazy.getInstacia();
+		System.out.println(lazy);
+		lazy = SingletonLazy.getInstacia();
+		System.out.println(lazy);
+	}
+
+}
